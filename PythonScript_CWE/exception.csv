@@ -1,0 +1,6 @@
+Exception,File
+FileNotFoundError,src/main/java/Service/vulnerability/sqlInjection/ErrorBasedSQLInjectionVulnrability.java
+EmptyFileError,src/main/java/Service/vulnerability/commandInjection/EmptyFile.java
+FileNotFoundError,src/main/java/Service/vulnerability/pathTraversal/PathversalVulnerability.java
+EmptyFileError,src/main/java/Service/vulnerability/sqlInjection/empty.java
+FileNotFoundError,src/main/java/Service/vulnerability/SSRFVulnerability.java
